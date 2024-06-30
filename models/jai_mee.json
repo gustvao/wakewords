@@ -3,10 +3,10 @@
     "wake_word": "jai_mee",
     "author": "gustvao",
     "website": "https://www.gustvao.com/",
-    "model": "./jai_mee.tflite",
+    "model": "https://github.com/gustvao/wakewords/raw/main/models/jai_mee.tflite",
     "version": 1,
     "micro": {
       "probability_cutoff": 0.5,
       "sliding_window_average_size": 10
     }
-  }
+}
