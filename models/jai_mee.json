@@ -1,9 +1,9 @@
 {
     "type": "micro",
-    "wake_word": "jai_mee",
+    "wake_word": "jaime",
     "author": "gustvao",
     "website": "https://www.gustvao.com/",
-    "model": "https://github.com/gustvao/wakewords/raw/main/models/jai_mee.tflite",
+    "model": "./jai_mee.tflite",
     "version": 1,
     "micro": {
       "probability_cutoff": 0.5,
